@@ -1,0 +1,89 @@
+{
+  "uid" : "5bce31f2652f592d",
+  "name" : "test_aduit_ari_pass",
+  "fullName" : "case.mis.test_aritcal_manage.TestAritcalMana#test_aduit_ari_pass",
+  "historyId" : "3e5804d4260f23a26d5325a543df2bb6",
+  "time" : {
+    "start" : 1598432102182,
+    "stop" : 1598432114260,
+    "duration" : 12078
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1598432102182,
+      "stop" : 1598432102182,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1598432114261,
+      "stop" : 1598432114261,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=103)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "case.mis"
+  }, {
+    "name" : "suite",
+    "value" : "test_aritcal_manage"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAritcalMana"
+  }, {
+    "name" : "host",
+    "value" : "mytest"
+  }, {
+    "name" : "thread",
+    "value" : "18568-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "case.mis.test_aritcal_manage"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=103)" ]
+  },
+  "source" : "5bce31f2652f592d.json",
+  "parameterValues" : [ ]
+}
